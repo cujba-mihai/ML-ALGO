@@ -1,0 +1,5 @@
+Flask
+Flask-RESTful
+mlxtend
+pandas
+scikit-learn
